@@ -1,6 +1,6 @@
 # npmtest-npm-quick-run
 
-#### test coverage for  [npm-quick-run (v1.16.0)](https://github.com/bahmutov/npm-quick-run#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-npm-quick-run.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-npm-quick-run) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-npm-quick-run.svg)](https://travis-ci.org/npmtest/node-npmtest-npm-quick-run)
+#### basic test coverage for  [npm-quick-run (v1.16.0)](https://github.com/bahmutov/npm-quick-run#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-npm-quick-run.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-npm-quick-run) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-npm-quick-run.svg)](https://travis-ci.org/npmtest/node-npmtest-npm-quick-run)
 
 #### Quickly run NPM script by prefix without typing the full name
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-npm-quick-run/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-npm-quick-run/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-npm-quick-run/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-npm-quick-run/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-npm-quick-run/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-npm-quick-run/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-npm-quick-run/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-npm-quick-run/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-npm-quick-run/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-npm-quick-run/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-npm-quick-run/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-npm-quick-run/build/coverage.html/index.html)
 
